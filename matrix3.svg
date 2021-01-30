@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="325.65"><rect width="800" height="325.65" rx="0" ry="0" class="a"/><svg height="325.65" viewBox="0 0 80 32.565" width="800" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <style>
-@import url('https://github.com/ssg/ssgmatrix/raw/master/Matrix%20Code%20Font.ttf');
+<!--@import url('https://github.com/ssg/ssgmatrix/raw/master/Matrix%20Code%20Font.ttf');-->
+@import url('/fonts/Matrix%20Code%20Font.ttf');
 @font-face {
   font-family: 'Matrix Code Font';
 }
