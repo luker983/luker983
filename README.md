@@ -1,20 +1,11 @@
 <!--
 Font:https://github.com/ssg/ssgmatrix
+Terminal Matrix: https://github.com/will8211/unimatrix
+Terminal Capture: https://github.com/asciinema/asciinema
+Asciinema -> SVG: https://github.com/marionebl/svg-term-cli
 -->
 
+<div align="center">
+  
 ![Matrix](matrix3.svg)
-
-<!--
-**luker983/luker983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
